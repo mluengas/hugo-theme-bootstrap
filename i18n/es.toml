@@ -1,0 +1,183 @@
+[404_title]
+other = "¡Epa! Página no encontrada."
+
+[404_info]
+other = "No podemos encontrar la página que estás buscando."
+
+[about_me]
+other = "Sobre Mí"
+
+[alipay]
+other = "Alipay"
+
+[archives]
+other = "Archivos"
+
+[button_copy_url]
+other = "Copiar URL"
+
+[button_reload]
+other = "Recargar"
+
+[button_social_share]
+other = "Compartir"
+
+[button_submit]
+other = "Enviar"
+
+[buy_me_a_coffee]
+other = "Cómprame un cafecito"
+
+[categories]
+other = "Categorías"
+
+[color_blue]
+other = "Azul"
+
+[color_blue_gray]
+other = "Gris Azulado"
+
+[color_brown]
+other = "Marrón"
+
+[color_cyan]
+other = "Cyan"
+
+[color_green]
+other = "Verde"
+
+[color_indigo]
+other = "Indigo"
+
+[color_orange]
+other = "Naranja"
+
+[color_pink]
+other = "Rosa"
+
+[color_purple]
+other = "Púrpura"
+
+[color_red]
+other = "Rojo"
+
+[color_teal]
+other = "Turquesa"
+
+[color_yellow]
+other = "Amarillo"
+
+[comments]
+other = "Comentarios"
+
+[contact_name]
+other = "Nombre"
+
+[contact_email]
+other = "Email"
+
+[contact_email_help]
+other = "Nunca compartiremos tu email con nadie."
+
+[contact_file]
+other = "Archivo"
+
+[contact_subject]
+other = "Asunto"
+
+[contact_message]
+other = "Mensaje"
+
+[copyright]
+other = "Copyright"
+
+[featured_posts]
+other = "Posts Destacados"
+
+[font_size]
+other = "Tamaño de la Letra"
+
+[go_back]
+other = "Volver"
+
+[home]
+other = "Inicio"
+
+[language]
+other = "Idioma"
+
+[liberapay]
+other = "Liberapay"
+
+[load_more]
+other = "Cargar Más"
+
+[mode]
+other = "Modo"
+
+[offline_title]
+other = "¡Epa! Estás offline."
+
+[offline_info]
+other = "Parece haber un problema con tu conexión. Por favor, chequea el estado de tu red."
+
+[pagination_title]
+other = "Page {{ .PageNumber }}"
+
+[palette]
+other = "Paleta"
+
+[patreon]
+other = "Patreon"
+
+[paypal]
+other = "Paypal"
+
+[post_count]
+one = "{{ .Count }} post en total"
+other = "{{ .Count }} posts en total"
+
+[post_date]
+other = "creado el {{ .createdOn }}{{ with .updatedOn }}, actualizado el {{ . }}{{ end }}."
+
+[read_more]
+other = "Leer Más"
+
+[reading_time]
+other = "{{ .ReadingTime }} min de lectura"
+
+[recent_posts]
+other = "Posts Recientes"
+
+[related_posts]
+other = "Posts Relacionados"
+
+[search]
+other = "Búsqueda"
+
+[search_missing_keywords]
+other = "Por favor, introduzca las palabras clave de la búsqueda"
+
+[search_no_results]
+other = "No se han encontrado resultados"
+
+[search_stat]
+other = "{{ .Total }} resultados encontrados"
+
+[series]
+other = "Series"
+
+[settings]
+other = "Configuración"
+
+[table_of_contents]
+other = "Índice"
+
+[tags]
+other = "Etiquetas"
+
+[try_again]
+other = "Prueba otra vez"
+
+[wechat]
+other = "WeChat"
